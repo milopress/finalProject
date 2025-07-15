@@ -1,7 +1,7 @@
 from PIL import Image
 import os
-input_folder = "/home/nvidia/finalProject/locks/KeyL/val"
-output_folder = "val_kL_output3"
+input_folder = "/home/nvidia/finalProject/locks/KeyL/train"
+output_folder = "train_kL_output4"
 
 if not os.path.exists(output_folder):
     os.makedirs(output_folder)
