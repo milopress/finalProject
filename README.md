@@ -16,7 +16,7 @@ My Project Planning Worksheet: https://drive.google.com/file/d/1ORE0L6ttKudealAl
 
 ## Running this project
 
-1. Make sure that you can use the onnx, numpy, and PIL library. If you can't, install them by typing "pip instal" and then the name of the library you want to instal.
+1. Make sure that you can use the onnx, numpy, and PIL library. If you can't, install them by typing "pip install" and then the name of the library you want to install.
 2. Drag and drop your photos of combination or key locks or copy and paste them next to your final code under the EXPLORER. 
 3. Right click on the photo and click copy path.
 4. In the code under finalCode.py paste in the path under image_path between the quotation marks.
