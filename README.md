@@ -1,6 +1,8 @@
 # The Lock Assistor
 
-My video: https://drive.google.com/file/d/1EEOGpbfONp7J3XTBogVYoyRHTnLs5hOU/view?usp=sharing
+My Video: https://drive.google.com/file/d/1EEOGpbfONp7J3XTBogVYoyRHTnLs5hOU/view?usp=sharing
+
+My Project Planning Worksheet: https://drive.google.com/file/d/1ORE0L6ttKudealAljKqKAY1Hk8wc1wQG/view?usp=sharing
 
 # Overview
     My project is mostly made for people who loose their keys or forget the combination to their locks and don't know how to access their belongings. My project solves this problem by determining the type of lock based on the image uploaded and then directing the user towards a video or a number to call with the output being different based on the type of lock. The type of locks were narrowed down to combination locks and key locks.
